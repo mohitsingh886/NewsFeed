@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="save_news_to_read_offline">Save news to read offline</string>
+
+    <string name="news_content">Content</string>
+    <string name="news_description">Description</string>
+
+</resources>
